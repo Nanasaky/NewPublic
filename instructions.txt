@@ -7,4 +7,5 @@
 				git log -2;(具体显示第几条)
 				git reflog;(简略信息数据集列表)
 				
-				
+6.版本回退			git hard head~0; (回退至上一步提交操作)
+				git hard head~1;(回退至上上步提交操作,依次类推)	

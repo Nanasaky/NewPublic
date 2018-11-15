@@ -21,3 +21,10 @@ master
 
 
 11.合并分支			git merge 分支名(需要是当前分支的兄弟分支名,或者主分支名, 并且会有冲突需要手动解决)
+
+12.推送到云端 三步走
+ git push
+
+ git remote add <name(给目标地址起个名)> <url>
+
+ git push <name>

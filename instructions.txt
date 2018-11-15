@@ -1,3 +1,4 @@
+master
 1.初始化git文件夹		git init;
 2.设置用户名			
 3.将文件提交到暂存区		git add + 文件名/*;
